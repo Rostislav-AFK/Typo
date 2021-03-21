@@ -1,0 +1,31 @@
+body {
+    font-family: sans-serif;
+}
+header,img{
+background-color:lightblue;
+}
+h1{
+text-align:center;
+color:yellow;
+}
+footer p{
+border:5px solid yellow;
+background-color:white;
+}
+footer{
+background-color:royalblue;
+padding:3px;
+}
+body{
+background-color:rgba(0, 132, 255, 0.733);
+}
+nav a{
+color:yellow;
+text-align:center;
+}
+nav{ 
+text-align:center;
+}
+p{
+    color:yellow;
+}
